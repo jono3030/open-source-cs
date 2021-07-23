@@ -1,6 +1,8 @@
 # The Open Source Computer Science Degree
 
-Forrest Knight's curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education. Forked to keep track of progress.
+Forrest Knight's curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
+
+Forked to keep track of own progress.
 
 ## Computer Science Basics
 
