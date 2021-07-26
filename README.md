@@ -2,7 +2,7 @@
 
 Forrest Knight's curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
 
-Forked to keep track of own progress. Table used as an overview of courses still need to be completed vs courses that have been completed. Additional courses relevant to the curriculum will be added to the table as well.
+Forked to keep track of own progress. Table used as an overview of courses that still need to be completed vs courses that have been completed. Additional courses relevant to the curriculum will be added to the table as well.
 
 ## Computer Science Basics
 
