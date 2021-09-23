@@ -29,11 +29,12 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[How to Learn Math: For Students](https://www.edx.org/course/how-to-learn-math-for-students-2?index=product&queryID=c0313912411b3c3466fadea826c57539&position=1) | Stanford | 1 week | 1-2 hours/day | self-paced | none 
-[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 12 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
+[How to Learn Math: For Students](https://www.edx.org/course/how-to-learn-math-for-students-2?index=product&queryID=c0313912411b3c3466fadea826c57539&position=1) | Stanford | 6 weeks | 1-3 hours/week | self-paced | none 
+[Precalculus](https://www.edx.org/course/precalculus-asux-mat170x) | Arizona State University | 15 weeks | 9-10 hours/week | self-paced | none
+[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 12 weeks | 6-10 hours/week | self-paced | [Precalculus](https://www.edx.org/course/precalculus-asux-mat170x)
 [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | MIT | 15 weeks | 6-10 hours/week | self-paced | Calculus 1A: Differentiation
 [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0)| MIT | 8 weeks | 6-10 hours/week | self-paced | Calculus 1B: Integration
-[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
+[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | self-paced | [Precalculus](https://www.edx.org/course/precalculus-asux-mat170x)
 [Introduction to Probability and Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprobability-intro) | Duke | 5 weeks | 5-7 hours/week | twice a month | none
 [Intro to Statistics ](https://imp.i115008.net/intro-to-statistics) | Udacity | 8 weeks | 5-7 hours/week | self-paced | none
 
