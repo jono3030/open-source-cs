@@ -62,6 +62,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | UBCx | 6 weeks | 8-10 hours/week | self-paced | Java Programming: Build a Recommendation System
 [Machine Learning](https://imp.i384100.net/YgYEBJ) | Stanford | 11 weeks | 5-7 hours/week | twice a month | Linear Algebra - Foundations to Frontiers
+[Deep Learning for Computer Vision](http://cs231n.stanford.edu/) | Stanford | 10 weeks | 5-7 hours/week | twice a week | Machine Learning
 [Database Management Essentials](https://imp.i384100.net/kjvDMn) | CU | 7 weeks | 4-6 hours/week | twice a month | basic programming & CS knowledge
 [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory?index=product&queryID=6bb4f1aa08116621c22cbe4ba2448b48&position=1) | Stanford | 2 weeks | 8-10 hours/week | self-paced | basic programming & CS knowledge
 [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql?index=product&queryID=a6d30ebab25a72d263e06537adefbc87&position=1) | Stanford | 2 weeks | 8-10 hours/week | self-paced | basic programming & CS knowledge
